@@ -1,4 +1,4 @@
-import { Form, Div, HeroTitle } from './Hero.module'
+import { Form, Div, HeroTitle } from './Hero'
 
 const Hero = () => (
   <Form>

@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Vagas } from './ListaVagas.modules'
+import { Vagas } from './ListaVagas'
 
 import FormVagas from '../../components/FormVagas'
 

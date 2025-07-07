@@ -1,4 +1,4 @@
-import { Lista, VagaTitulo, VagaLink } from './Vaga.module'
+import { Lista, VagaTitulo, VagaLink } from './Vaga'
 
 type Props = {
   titulo: string

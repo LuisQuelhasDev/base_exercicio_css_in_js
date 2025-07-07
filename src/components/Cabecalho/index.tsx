@@ -1,4 +1,4 @@
-import { Cabecalho as Title } from './Cabecalho.module'
+import { Cabecalho as Title } from './Cabecalho'
 
 const Cabecalho = () => (
   <header>
